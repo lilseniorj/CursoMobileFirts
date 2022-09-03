@@ -89,7 +89,7 @@ header img {
     width: 13px;
     height: 8px;
     margin-left: 10px;
-    background-image: url("/assets/iconos/vector.svg");
+    background-image: url("./assets/iconos/Vector.svg");
 }
 main {
     width: 100%;
@@ -114,7 +114,7 @@ main {
     height: 200px;
     margin: 0 auto;
     margin-bottom: 50px;
-    background-image: url("/assets/imgs/bitcoin.svg");
+    background-image: url("./assets/imgs/bitcoin.svg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -212,7 +212,7 @@ main {
     width: 15px;
     height: 15px;
     margin-left: 10px;
-    background-image: url("/assets/iconos/trending-down.svg");
+    background-image: url("./assets/iconos/trending-down.svg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -222,7 +222,7 @@ main {
     width: 15px;
     height: 15px;
     margin-left: 10px;
-    background-image: url("/assets/iconos/trending-up.svg");
+    background-image: url("./assets/iconos/trending-up.svg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -232,7 +232,7 @@ main {
     width: 15px;
     height: 15px;
     margin-left: 10px;
-    background-image: url("/assets/iconos/trending-down.svg");
+    background-image: url("./assets/iconos/trending-down.svg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -242,7 +242,7 @@ main {
     width: 15px;
     height: 15px;
     margin-left: 10px;
-    background-image: url("/assets/iconos/trending-down.svg");
+    background-image: url("./assets/iconos/trending-down.svg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -276,7 +276,7 @@ main {
     height: 25px;
     top: -10px;
     left: calc(50% - 20px);
-    background-image: url("/assets/iconos/bataba.svg");
+    background-image: url("./assets/iconos/bataba.svg");
 }
 
 .product-detail--title {
@@ -322,16 +322,16 @@ main {
     background-repeat: no-repeat;
 }
 .product-detail--card .clock {
-    background-image: url("/assets/iconos/clock.svg");
+    background-image: url("./assets/iconos/clock.svg");
 }
 .product-detail--card .eye {
-    background-image: url("/assets/iconos/eye.svg");
+    background-image: url("./assets/iconos/eye.svg");
 }
 .product-detail--card .dollar {
-    background-image: url("/assets/iconos/dollar-sign.svg");
+    background-image: url("./assets/iconos/dollar-sign.svg");
 }
 .product-detail--card .check{
-    background-image: url("/assets/iconos/check-circle.svg");
+    background-image: url("./assets/iconos/check-circle.svg");
 }
 .product--card-title {
     margin-bottom: 15px;
@@ -350,7 +350,7 @@ main {
     width: 100;
     min-width: 320px;
     height: 50vh;
-    background-image: url("/assets/imgs/bitcoinbaby1.jpg");
+    background-image: url("./assets/imgs/bitcoinbaby1.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -481,7 +481,7 @@ main {
     display: inline-block;
     width: 20px;
     height: 20px;
-    background-image: url("/assets/iconos/arrow-right.svg");
+    background-image: url("./assets/iconos/arrow-right-icon.svg");
     vertical-align: text-bottom;
 }
 
